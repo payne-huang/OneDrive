@@ -58,5 +58,5 @@ Options:
 ```
 注：如果不能重新 authorize，使用如下操作
 rm -rf 、usr/local/etc/OneDrive
-然后重装
+然后重装，再重新 authorize
 ```
